@@ -6,13 +6,16 @@
 	font: inherit;
 	vertical-align: baseline;
 }
-
+body {
+	background-color: #DBDBEA;
+}
 a:hover, a:active {
 	text-decoration: underline;
 }
 div {
 	display: block;
 }
+/* header */
 .header {
 	height: 180px;
 	color: #fff;
@@ -105,5 +108,16 @@ a.gradient.red:active {
 }
 /* footer */
 .contentinfo {
-	
+	height: 144px;
+	color: #fff;
+	padding: 8px 0;
+	margin-top: 24px;
+	position: relative;
+	background: url(../img/bg-pattern.png) repeat center top;
+}
+.contentinfo .copyright {
+	font-size: 12px;
+	position: absolute;
+	left: 15px;
+	margin-top: 82px;
 }
