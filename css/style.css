@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+}
+div {
+	display: block;
+}
+.header {
+	height: 180px;
+	color: #fff;
+	position: relative;
+	background: url(../img/bg-pattern.png) repeat center top;
+}
+
+.header .logo {
+	width: 463px;
+	height: 93px;
+	position: absolute;
+	margin-top: 24px;
+	left: 0;
+}	
+
+.navigation {
+	width: 100%;
+	height: 35px;
+	text-align: justify;
+	position: absolute;
+	margin-top: 128px;
+	border-radius: 4px;
+	background: rgba(0, 0, 0, 0.2);
+	overflow: hidden;
+}
+
+.navigation ul {
+	display: table;
+}
+
+.navigation ul li {
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	table-layout: fixed;
+	display: table-cell;
+}
+.navigation ul li a {
+	color: #fff;
+	font-size: 18px;
+	line-height: 1;
+	text-decoration: none;
+	padding: 8px 24px;
+	position: relative;
+	text-shadow: 0 1px 1px #000;
+	border-radius: 3px;
+	display: inline-block;
+}
+.navigation ul li a.gradient.red {
+	box-shadow: inset 0 1px 0 #990814;
+}
+
+a.gradient.red:hover {
+	background: linear-gradient(to bottom, #bfbfbf 5%, #cccccc 48%, #b3b3b3 48%, #999999 96%);
+}
+a.gradient.red:active {
+	background: linear-gradient(to bottom, #dc4e4e 5%, #d63232 48%, #cc0000 48%, #9d0000 96%);
+}
+.gradient.border {
+	position: relative;
+}
+.contacts {
+	width: 175px;
+	position: absolute;
+	margin-top: 40px;
+	right: 275px;
+}
+.membership {
+	width: 215px;
+	position: absolute;
+	margin-top: 4px;
+	right: 0;
+}
+.ftn.u {
+	color: #fff;
+	text-decoration: underline;
+}
+.membership a:not(first-of-type) {
+	margin-left: 40px;
+}
+.cart {
+	width: 215px;
+    height: 83px;
+    position: absolute;
+    margin-top: 33px;
+    right: 0;
+}
+.cart a {
+	color: #fff;
+}
+/* footer */
+.contentinfo {
+	
+}
