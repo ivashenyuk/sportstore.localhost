@@ -35,7 +35,84 @@
 			</div>
 		</div>
 	</header>
-	
+	<main>
+		<aside class="xd-1 rd">
+			<div class="pd">
+				Сезон <br>
+				<select id="season">
+					<option value="">- Всі сезони-</option>
+					<option value="">Весна-Літо</option>
+					<option value="">Осінь-Зима</option>
+				</select>
+			</div>
+			<div class="pd">
+				Стать <br>
+				<select id="season">
+					<option value="">- Всі категорії-</option>
+					<option value="">Жінкам</option>
+					<option value="">Чоловікам</option>
+					<option value="">Дітям</option>
+				</select>
+			</div>
+		</aside>
+		<section class="main">
+			<article class="bs2">
+				<div class="info">
+					<div class="photo">
+						
+					</div>
+				</div>
+				<div class="footer">
+					<div class="fl fnt c s16">489 <span class="fnt s12">грн.</span></div>
+					<div class="fr fnt c s16">489 <span class="fnt s12">грн.</span></div>
+				</div>
+			</article>
+			<article class="bs2">
+				<div class="info">
+					<div class="photo">
+						
+					</div>
+				</div>
+				<div class="footer">
+					<div class="fl fnt c s16">489 <span class="fnt s12">грн.</span></div>
+					<div class="fr fnt c s16">489 <span class="fnt s12">грн.</span></div>
+				</div>
+			</article>
+			<article class="bs2">
+				<div class="info">
+					<div class="photo">
+						
+					</div>
+				</div>
+				<div class="footer">
+					<div class="fl fnt c s16">489 <span class="fnt s12">грн.</span></div>
+					<div class="fr fnt c s16">489 <span class="fnt s12">грн.</span></div>
+				</div>
+			</article>
+			<article class="bs2">
+				<div class="info">
+					<div class="photo">
+						
+					</div>
+				</div>
+				<div class="footer">
+					<div class="fl fnt c s16">489 <span class="fnt s12">грн.</span></div>
+					<div class="fr fnt c s16">489 <span class="fnt s12">грн.</span></div>
+				</div>
+			</article>
+			<article class="bs2">
+				<div class="info">
+					<div class="photo">
+						
+					</div>
+				</div>
+				<div class="footer">
+					<div class="fl fnt c s16">489 <span class="fnt s12">грн.</span></div>
+					<div class="fr fnt c s16">489 <span class="fnt s12">грн.</span></div>
+				</div>
+			</article>
+		</section>
+	</main>
 
 	<footer class="contentinfo">
 		<div style="position: absolute; left: 15px; margin-top: 42px;">sport-store.localhost/ 10 з 10 на основі 20 оцінок. 18 клієнтських відгуків</div>
