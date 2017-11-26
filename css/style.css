@@ -147,8 +147,14 @@ aside {
 }
 .pd {
 	padding: 10px;
+
 }
 #season {
+	width: 100%;
+	margin: 10px 0;
+	background-color: #fff;
+}
+#sex {
 	width: 100%;
 	margin: 10px 0;
 	background-color: #fff;

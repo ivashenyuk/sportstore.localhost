@@ -5,6 +5,7 @@
 	<title>Таблиця різмірів</title>
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="shortcut icon" href="img/favicon.ico">
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
 </head>
 <body>
 	<?php include('php/header.php') ?>

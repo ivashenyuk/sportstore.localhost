@@ -5,11 +5,12 @@
 	<title>Контакти</title>
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="shortcut icon" href="img/favicon.ico">
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
 </head>
 <body>
 	<?php include('php/header.php'); ?>
 	<div>
-		<main class="auth bs1" style="height: 1000px;">
+		<main class="auth bs1" style="height: 620px;">
 			<section>
 				<section class="fl" style="width: 100%; text-decoration: none !important; color: #000;">
 					<section class="h1">

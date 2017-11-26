@@ -9,7 +9,7 @@
 </div>
 <div class="pd">
 	Стать <br>
-	<select id="season">
+	<select id="sex">
 		<option value="">- Всі категорії-</option>
 		<option value="">Жінкам</option>
 		<option value="">Чоловікам</option>
